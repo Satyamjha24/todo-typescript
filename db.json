@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "coding",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "soft skill",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "interview",
+      "status": false
+    }
+  ]
+}
